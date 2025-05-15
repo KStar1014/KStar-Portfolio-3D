@@ -157,7 +157,7 @@ const expCards = [
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: `${author.devtitle} | TangoMe`,
-    date: "August 2024 - Present",
+    date: "August 2024 - Jan 2025",
     responsibilities: [
       "Developed and maintained user-facing features for the Hostinger website.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
