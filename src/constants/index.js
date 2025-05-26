@@ -1,7 +1,7 @@
 const author = {
-  fullname: "Luis Jackson",
-  firstname: "Luis",
-  devtitle: "Full-stack Engineer"
+  fullname: "Amos Miller",
+  firstname: "Amos",
+  devtitle: "Full-stack & AI Engineer"
 }
 
 const navLinks = [
