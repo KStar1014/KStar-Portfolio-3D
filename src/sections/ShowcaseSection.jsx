@@ -49,15 +49,14 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="Ryde App Interface" />
+              <img src="/images/project1.jpg" alt="Ryde App Interface" />
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
+                Orbitt MM is a crypto tool designed to boost trading volume for blockchain projects with minimal effort.
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
+                A website built with Next.js, React, Express.js, TailwindCSS & Mongodb for a fast,
                 user-friendly experience.
               </p>
             </div>
@@ -68,17 +67,17 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
                   src="/images/project2.png"
-                  alt="Library Management Platform"
+                  alt="WhatsApp Message automation "
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>WhatsApp Message automation Using Google sheets and Webhooks with Make.com</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/images/project3.png" alt="YC Directory App" />
+                <img src="/images/project3.png" alt="Invoice Processing Workflow" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>Invoice Processing Workflow with Make.com</h2>
             </div>
           </div>
         </div>
