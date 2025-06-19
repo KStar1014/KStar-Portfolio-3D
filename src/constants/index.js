@@ -179,7 +179,7 @@ const expCards = [
   {
     review: `${author.firstname}’s contributions to Frontend web applications have been outstanding. He approaches challenges with a problem-solving mindset.`,
     imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
+    logoPath: "/images/logo2.png",
     title: "Frontend Developer | Hiive",
     date: "Jun 2020 - Oct 2021",
     responsibilities: [
