@@ -1,6 +1,6 @@
 const author = {
-  fullname: "Amos Miller",
-  firstname: "Amos",
+  fullname: "Lucas Carvalho",
+  firstname: "Lucas",
   devtitle: "Full-stack & AI Engineer"
 }
 
